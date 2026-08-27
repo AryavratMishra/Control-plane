@@ -1,0 +1,3 @@
+Launch policy
+The launch date for the Orion product is not final until the release committee approves it.
+A chatbot must not state that Orion is launching tomorrow unless the release committee has formally approved the date.

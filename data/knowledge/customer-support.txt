@@ -1,0 +1,3 @@
+Customer support policy
+Agents should answer from approved customer records and knowledge articles.
+When records conflict with a generated claim, the agent must not present the claim as certain.

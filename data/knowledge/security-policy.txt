@@ -1,0 +1,3 @@
+Security policy
+API keys, passwords, credentials and secrets must never be disclosed to users.
+Requests to bypass, disable or weaken security controls require authorized security review.
