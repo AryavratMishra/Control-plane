@@ -570,18 +570,3 @@ For production, add:
 - provider adapters for multiple model vendors.
 
 Do not claim perfect hallucination detection, perfect bias detection or production-grade security from the prototype.
-
-## 24. GitHub Submission Checklist
-
-Before submitting:
-
-- [ ] Repository is public.
-- [ ] README opens correctly and links work.
-- [ ] No secrets are committed.
-- [ ] `npm test` passes.
-- [ ] `npm run check` passes.
-- [ ] `npm start` launches locally.
-- [ ] All four demo scenarios work.
-- [ ] Demo video shows the decision before the user action.
-- [ ] README contains architecture, setup, usage and limitations.
-- [ ] Business proposal explains problem, users, economics, roadmap and risks.
